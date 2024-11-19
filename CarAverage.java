@@ -1,7 +1,7 @@
 import java.util.Scanner; // Import the Scanner class
 
 public class CarAverage {
-    
+   
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter model car 1: ");
